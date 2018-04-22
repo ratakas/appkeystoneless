@@ -10,6 +10,8 @@ var handlebars = require('express-handlebars');
 // See http://keystonejs.com/guide/config for available options
 // and documentation.
 
+//esta es rama casa
+
 keystone.init({
 	'name': 'sssc',
 	'brand': 'sssc',
